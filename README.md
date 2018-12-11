@@ -1,2 +1,2 @@
-# c_and_c-
-Small programs in c and c+++
+# c_and_c++
+Small programs in c and c++
